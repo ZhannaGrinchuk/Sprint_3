@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Couriers.CourierLoginPositiveTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.022 s - in Couriers.CourierLoginPositiveTest
