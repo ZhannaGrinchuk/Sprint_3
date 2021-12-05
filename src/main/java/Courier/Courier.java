@@ -5,8 +5,8 @@ import org.apache.commons.lang3.RandomStringUtils;
 public class Courier {
 
     private String login;
-    public String password;
-    public String firstName;
+    private String password;
+    private String firstName;
 
     public Courier() {
 
