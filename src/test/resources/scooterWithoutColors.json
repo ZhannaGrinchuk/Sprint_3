@@ -1,0 +1,11 @@
+{
+  "firstName": "Самокат",
+  "lastName": "Самокатов",
+  "address": "Усачева, 13 apt.",
+  "metroStation": 50,
+  "phone": "+7 921 123 45 67",
+  "rentTime": 5,
+  "deliveryDate": "2020-10-17T12:35:00.000Z",
+  "comment": "test",
+  "color": []
+}

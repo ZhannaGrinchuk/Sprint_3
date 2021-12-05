@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: Couriers.CourierLoginNegativeTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 6.716 s <<< FAILURE! - in Couriers.CourierLoginNegativeTest
+checkCourierLoginWithLoginOnly(Couriers.CourierLoginNegativeTest)  Time elapsed: 5.272 s  <<< ERROR!
+org.junit.runners.model.TestTimedOutException: test timed out after 5000 milliseconds
+	at app//Couriers.CourierLoginNegativeTest.checkCourierLoginWithLoginOnly(CourierLoginNegativeTest.java:51)
+
